@@ -1,0 +1,25 @@
+{
+	"MCModPack": "V1",
+	"MCVersion": "1.6.4",
+	"Type": "smp/ssp/etc.",
+	"modpackRepo": {
+		"type": "git/svn/merc",
+		"url": "url"
+	},
+	"PackName": "Name of Pack",
+	"PackVersion": "Version#",
+	"PackIcon": "IconLocation",
+	"APIConfig": [{
+		"ModAPI": "APINAME",
+		"APIVersion": "VERSION NUMBER",
+		"ApiRepo": {
+			"type": "git/svn/merc",
+			"url": "url"
+		},
+		"APIJarLocation": "LocationInPack",
+		"APIInstallParams": "",
+		"APILibLocation": "loc",
+		"ModsLocation": "location",
+		"ConfigsLocation": "location"
+	}]
+}
